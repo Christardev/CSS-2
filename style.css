@@ -43,7 +43,7 @@ img {
 }
 .main_name {
   font-weight: bolder;
-  font-size: 56px;
+  font-size: 3rem;
   padding: 5px 0;
   line-height: 1.3cm;
 }
@@ -51,16 +51,19 @@ img {
   font-weight: 700;
   text-decoration: underline;
   text-decoration-color: rgb(33, 231, 33);
-  padding: 10px 0;
+  padding: 30px 0;
+  font-size: 1rem;
 }
 .line {
   width: 100%;
   background-color: blueviolet;
   opacity: 50%;
+  margin-bottom: 10px;
 }
 .main_paragraph {
   font-style: italic;
   padding: 5px 0;
+  font-size: 1rem;
 }
 .footer_btn {
   background-color: rgb(33, 231, 33);
