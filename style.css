@@ -44,7 +44,7 @@ img {
 }
 .main_job {
   font-weight: 700;
-  text-decoration: underline;
+  text-decoration: 3px underline;
   text-decoration-color: rgb(33, 231, 33);
   padding: 20px 0;
   font-size: 1rem;
@@ -77,3 +77,11 @@ img {
 a {
   color: black;
 }
+/* an exemple of centering using margin  */
+
+/* .box {
+  background-color: burlywood;
+  width: 40px;
+  height: 40px;
+  margin: auto;
+} */
